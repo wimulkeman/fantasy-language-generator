@@ -6,5 +6,8 @@
         <div>
             <a href="rossetta.php">Create Rossetta stone</a>
         </div>
+        <div>
+            <a href="cheatsheet.php">Language cheatsheet</a>
+        </div>
     </body>
 </html>
