@@ -8,7 +8,7 @@ The project contains a Rossetta stone generator to generate the
 same text in different language.
 
 At the moment the following languages are supported:
-- Italic (default input language)
+- Latin (default input language)
 - Dethek (Dwarven)
 - Cirth
 - Khuzdul (Derived from Cirth)
