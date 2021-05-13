@@ -16,13 +16,18 @@ $characterCodes = range(33, 126);
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <link rel="stylesheet" href="css/layout.css">
+        <link rel="stylesheet" href="css/print.css">
         <?php
             echo getAllLanguageStyleSheets();
         ?>
+
+        <title>Charactersheet</title>
     </head>
     <body>
         <nav class="navbar navbar-light bg-light">
             <a class="navbar-brand" href="/">Home</a>
+
+            <button type="button" class="btn btn-primary" onclick="print()">Print sheet</button>
         </nav>
         <div class="container-fluid">
             <table>
