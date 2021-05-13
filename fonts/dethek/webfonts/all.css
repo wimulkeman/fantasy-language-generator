@@ -1,0 +1,16 @@
+@font-face
+{
+    font-family: 'Olde Dethek';
+  src: url('Olde Dethek.eot'),
+      url('Olde Dethek.eot?#') format('embedded-opentype'),
+      url('Olde Dethek.woff') format('woff'),
+      url('Olde Dethek.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'Olde Dethek Italic';
+  src: url('Olde Dethek Italic.eot'),
+      url('Olde Dethek Italic.eot?#') format('embedded-opentype'),
+      url('Olde Dethek Italic.woff') format('woff'),
+      url('Olde Dethek Italic.ttf') format('truetype');
+}

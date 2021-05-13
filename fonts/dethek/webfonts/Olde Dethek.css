@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'Olde Dethek';
+  src: url('Olde Dethek.eot'),
+      url('Olde Dethek.eot?#') format('embedded-opentype'),
+      url('Olde Dethek.woff') format('woff'),
+      url('Olde Dethek.ttf') format('truetype');
+}

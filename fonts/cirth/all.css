@@ -1,0 +1,31 @@
+@font-face
+{
+    font-family: 'Cirth Erebor';
+    src: url('Erebor.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'Cirth Erebor1';
+    src: url('Erebor1.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'Cirth Erebor2';
+    src: url('Erebor2.ttf') format('truetype');
+}
+
+@font-face
+{
+    font-family: 'Cirth Erebcap';
+    src: url('Erebcap.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'Cirth Erebcap1';
+    src: url('Erebcap1.ttf') format('truetype');
+}
+@font-face
+{
+    font-family: 'Cirth Erebcap2';
+    src: url('Erebcap2.ttf') format('truetype');
+}

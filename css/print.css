@@ -1,0 +1,7 @@
+nav, div.container {
+    display: none;
+}
+
+div.language-text {
+    display: block;
+}
