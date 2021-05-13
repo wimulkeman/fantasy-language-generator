@@ -9,5 +9,8 @@
         <div>
             <a href="cheatsheet.php">Language cheatsheet</a>
         </div>
+        <div>
+            <a href="convert-text.php">Convert text</a>
+        </div>
     </body>
 </html>
