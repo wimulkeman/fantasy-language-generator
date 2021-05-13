@@ -20,6 +20,8 @@ include_once 'translate-language.php';
 <body>
 <nav class="navbar navbar-light bg-light">
     <a class="navbar-brand" href="/">Home</a>
+
+    <button type="button" class="btn btn-primary" onclick="print()">Print cheatsheet</button>
 </nav>
 <div class="container">
     <h1>Generate a language cheatsheet</h1>
@@ -79,9 +81,6 @@ bad water - danger - be alert - dragon - dwarf - elf - gnome - halfling - human 
             echo '</div>';
         }
         ?>
-    </div>
-    <div class="container">
-        <button type="button" class="btn btn-primary" onclick="print()">Print cheatsheet</button>
     </div>
 <?php } ?>
 </body>
